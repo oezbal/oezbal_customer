@@ -2,6 +2,7 @@ package domain;
 
 public class Customer
 {
-	private int id;
+	private long id;
 	private String name;
+	private float credit;
 }
